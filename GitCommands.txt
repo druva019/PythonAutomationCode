@@ -1,0 +1,9 @@
+to clone repository: git clone https://github.com/druva019/PythonAutomationCode.git
+
+To view the files: 
+cd folder name
+git status
+
+to add or push the file: 
+git add .
+git status
