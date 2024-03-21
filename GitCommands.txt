@@ -7,3 +7,13 @@ git status
 to add or push the file: 
 git add .
 git status
+
+Command to commit the code or Adding new file to Git repo:
+git commit -m "Adding file"
+
+Command to push the changes:
+git push
+
+to config ourself:
+git config --global user.email"Your email"
+git config --global user.name"Your name"
